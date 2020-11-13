@@ -8,3 +8,6 @@ The name's Sai Kaushik S. I am a 3rd year Computer Science Dual Degree pursuer a
 - 📫 How to reach me: \
     Mail: saikaushik609@gmail.com \
     LinkedIn: [thegamingbot (Sai Kaushik S)](https://www.linkedin.com/in/kihsuakias/)
+
+![Kaushik's github stats](https://github-readme-stats.vercel.app/api?username=thegamingbot&theme=dark&show_icons=true)\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegamingbot&theme=dark)
