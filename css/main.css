@@ -1790,3 +1790,19 @@ ul.hb-list li h6 {
 .double-val-label > span.danger {
   background-color: #d9534f;
 }
+
+/* Style buttons */
+.btn, .btn:active, .btn:focus {
+  background-color: #420000;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: #840000;
+  color: #ffffff;
+}
