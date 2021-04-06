@@ -1,5 +1,5 @@
 # The name's Sai Kaushik S.
-## Hardware Enthusiast
+### Hardware Enthusiast
 I am a 3rd year Computer Science Dual Degree pursuer at Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram, Chennai. 
 
 - 🔭 I’m currently working on VLIW architecture simulation.
